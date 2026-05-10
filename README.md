@@ -30,6 +30,7 @@ Original dataset:
 - Fraud transactions: 492
 - Legitimate transactions: 284,315
 - Original columns: 31
+- Took the dataset from Kaggel (https://www.kaggle.com/datasets/electraawais/kaggle-credit-card-fraud-detection-dataset)
 
 After duplicate removal:
 
