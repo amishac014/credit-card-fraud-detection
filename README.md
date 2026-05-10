@@ -86,6 +86,9 @@ XGBoost was selected as the recommended balanced model because it achieved stron
 
 Random Forest can be considered a conservative alternative when minimizing false positives is the top business priority.
 
+### XGBoost Feature Importance
+
+![XGBoost Feature Importance](visuals/xgboost_feature_importance.png)
 ## Business Impact
 
 This fraud detection model can help financial institutions:
