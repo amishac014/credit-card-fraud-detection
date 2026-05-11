@@ -99,6 +99,22 @@ This fraud detection model can help financial institutions:
 - Improve transaction risk monitoring
 - Balance fraud prevention with customer experience
 
+## Streamlit Fraud Detection App
+
+A Streamlit web app was created to make the fraud detection model interactive. The app allows users to upload transaction data in CSV format and receive fraud predictions using the trained XGBoost model.
+
+The app displays:
+
+- Uploaded transaction preview
+- Fraud probability
+- Prediction label
+- Total transactions
+- Predicted fraud count
+- Predicted legitimate count
+- Business recommendation
+
+This turns the machine learning model into a simple fraud risk decision-support tool.
+
 ## Tools and Technologies
 
 - Python
